@@ -62,7 +62,21 @@ The professor and TA have private email accounts that you may also use, however 
 ## Lecture Schedule
 | LECTURE CONTENT | CLASS WORK |
 | --- | --- |
-| INTRODUCTION TO SOFTWARE SYSTEMS
+| - INTRODUCTION TO SOFTWARE SYSTEMS
 - Introduction to the course.
-- What is this course about? - Importance of Systems and command-line development. | - Course outline - Textbook: Chapter 1 |
-| `git diff` | Show file differences that **haven't been** staged |
+- What is this course about?
+- Importance of Systems and command-line development. 
+| 
+- Course outline
+- Textbook: Chapter 1 |
+| - THE UNIX/LINUX OPERATING SYSTEM
+- The story of Unix. 
+- The architecture of Unix OS.  
+- Getting access to the SOCS Linux servers.  
+- SFTP and SSH clients, logging in, file transfer, working from home and school
+ | 
+- Textbook: Section 2.0 |
+|
+
+
+
