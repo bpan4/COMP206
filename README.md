@@ -62,8 +62,7 @@ The professor and TA have private email accounts that you may also use, however 
 ## Lecture Schedule
 | LECTURE CONTENT | CLASS WORK |
 | --- | --- |
-| INTRODUCTION TO SOFTWARE SYSTEMS
-Introduction to the course. 
+| INTRODUCTION TO SOFTWARE SYSTEMS \\ Introduction to the course. 
 What is this course about? 
 Importance of Systems and command-line development. | Course outline
 Textbook: Chapter 1 |
