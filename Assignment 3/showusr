@@ -1,0 +1,19 @@
+#Do not include a sh-bang (#!/bin/bash) in this script.
+#Do not write code outside of this function body
+function fname()
+{
+export FNAME=
+if [ -z "$1" ]; then
+	FNAME="ERROR"
+	return 1
+else
+	output=$( who | grep -c "$1" )
+	if [ "$output" -eq 0 ]; then
+		FNAME="NOTFOUND"
+		return 0
+	else
+		FNAME="$( pinky -f "$1" | awk '{print $2}')"
+		return 0
+	fi
+fi
+}

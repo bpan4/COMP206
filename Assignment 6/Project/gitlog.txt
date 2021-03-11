@@ -1,0 +1,47 @@
+commit 699f4d4577651db181dd4f84240ff60797e5a548
+Author: Belle PAN <bpan4@teaching.CS.McGill.CA>
+Date:   Mon Apr 13 23:14:47 2020 -0400
+
+    Fixed parse function by using sscanf function to parse and store ints
+
+commit 57ffb262d1f26f71a6eff40c35c0cfd7d855b0f8
+Author: Belle PAN <bpan4@teaching.CS.McGill.CA>
+Date:   Mon Apr 13 23:13:44 2020 -0400
+
+    Fixed logic errors in main function, specifically the while loop in calling addPolynomial
+
+commit bbae9a45d8a450f815f96fc2ac4eebef8a185722
+Author: Belle PAN <bpan4@teaching.CS.McGill.CA>
+Date:   Mon Apr 13 23:12:24 2020 -0400
+
+    Completed all functions, fixed formatting errors in displayPolynomial function
+
+commit 605840582aa59be179bf804788c13ae6a6ce66ee
+Author: Belle PAN <bpan4@teaching.CS.McGill.CA>
+Date:   Mon Apr 13 16:21:05 2020 -0400
+
+    Completed main function of polyapp.c, need to continue working on h files
+
+commit 2dd5e6e8eb3769fab42789511faf8a56da0ea276
+Author: Belle PAN <bpan4@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 22:22:54 2020 -0400
+
+    Question 5, included the utils.c file and added the parse function in main
+
+commit 628da7a1277bf001115c0171b7592272552b405c
+Author: Belle PAN <bpan4@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:56:45 2020 -0400
+
+    Question 5, fixed issue with atoi function (added #include <stdlib.h>)
+
+commit 2beb761866673fcee406205e4ccd9048b77de31a
+Author: Belle PAN <bpan4@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 21:51:24 2020 -0400
+
+    Question 5 initial version
+
+commit 88e2ef5aa1812675b540aad83bf46b744b7a6ff7
+Author: Belle PAN <bpan4@teaching.CS.McGill.CA>
+Date:   Sat Apr 11 18:56:18 2020 -0400
+
+    Questions 1 to 4
