@@ -42,7 +42,7 @@ Check with the university for this opportunity.
 ###### Re-grading: 
 Mistakes can occur when grading. Not surprisingly, requests for re-grading always involve those mistakes in which the student received fewer points than they deserved, rather than more points than they deserved. With that in mind: if you wish me to re-grade a question on an exam or assignment, I will do so. I reserve the right to re-grade other questions as well.
 
-###### Cheating/Collaboration: 
+## Cheating/Collaboration: 
 Collaboration is encouraged but your discussions should be public in the sense that anyone including the professor should be allowed to listen in. Assignments are original works created by the student alone. You are permitted and encouraged to haveconversations with other students concerning the contents of the assignments and how to do them, but your work must be original.  If two or more assignments are found to be identical (or portions of assignments) then all parties will lose points.  This includes the student who permitted their assignment to be copied.  This includes written solutions and software source code. The students will be reported to the university plagiarism department.
 
 ## Communication
@@ -65,9 +65,7 @@ The professor and TA have private email accounts that you may also use, however 
 | - INTRODUCTION TO SOFTWARE SYSTEMS
 - Introduction to the course.
 - What is this course about?
-- Importance of Systems and command-line development. 
-| 
-- Course outline
+- Importance of Systems and command-line development. | - Course outline
 - Textbook: Chapter 1 |
 | - THE UNIX/LINUX OPERATING SYSTEM
 - The story of Unix. 
