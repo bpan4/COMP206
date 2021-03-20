@@ -1,4 +1,4 @@
-# COMP206_Winter2020
+# COMP206 Winter 2020
 
 ## Course Name
 Introduction to Software SystemsCOMP-206 Winter 2020
