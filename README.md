@@ -1,7 +1,4 @@
-# COMP206 Winter 2020
-
-## Course Name
-Introduction to Software SystemsCOMP-206 Winter 2020
+# COMP206 Winter 2020 Introduction to Software Systems
 
 ## Course Information
 Course email:cs206@cs.mcgill.ca
